@@ -6,8 +6,8 @@
 Pain points when applying for a job posting:
 1. The applicant's work profile does not exactly match job role and descriptions.
 2. Not all of the applicant's experiences are relevant to what the role is looking for.
-3. The applicant is not sure what experiences he/she got the aligns with the position
-4. Manualy aligning your resume to the role may be a good practice but puts you at a disadvantage with regards time
+3. The applicant is not sure what experiences he/she has that align with the role
+4. Manualy aligning your resume to the role may be a good practice but puts you at a disadvantage with regards to time
 
 Generative AI definitely has change the landscape of job applications. Using chatgpt, you can easily prompt your way to create a tailored resume based on a job posting. It became a nightmare to a recruiter on how to distinguish between thousands of ai generated resume. And when they picke one potential good resume, it is embellished to a point that the first phone call interview ends up being a waste of time for both the applicant and the recruiter. 
 
