@@ -23,7 +23,7 @@ This application utilize a hierarchal agentic approach using CrewAI and GPT-4 wh
 
 
 What it needs:
-* Resume/Work Profile/CV - A curriculum vitae is probably a better input to the AI application as it encompasses all of the applicant skills and qualification regardless of its relevancy to the position. The AI app should eventually be the one to pick what skills and qualifications or even make a case on why a non-relevant experience can be helpful to the role the applicant is applying for.
+* Resume/Work Profile/CV - A rigorious profile is probably a better input to the AI application as it encompasses all of the applicant skills and qualification regardless of its relevancy to the position. The AI app should eventually be the one to pick what skills and qualifications or even make a case on why a non-relevant experience can be helpful to the role the applicant is applying for.
 * Job Posting Details – Put as much detail as possible about the position, the company culture, etc.
 * Cover letter Guide- Guide your cover letter instead of letting the LLM create a generic cover letter. Hiring Managers looks for authenticity.
 

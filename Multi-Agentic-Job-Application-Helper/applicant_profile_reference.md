@@ -4,20 +4,25 @@
 **LinkedIn:** [linkedin.com/in/musni-jonathan](https://www.linkedin.com/in/musni-jonathan/)  
 **Contact no.:** xxx-xxx-xxx
 
-## Cloud Credentials
+## Certificates
 
-- **Databricks:** Certified Professional Data Engineer, Certified Associate Generative AI Engineer
-- **AWS:** Certified Data Engineer Associate
-- **Microsoft:** Certified Azure AI Engineer Associate
+- **Databricks:** Certified Professional Data Engineer - The Databricks Certified Data Engineer Professional certification exam assesses an individual’s ability to use Databricks to perform advanced data engineering tasks. This includes an understanding of the Databricks platform and developer tools like Apache Spark™, Delta Lake, MLflow, and the Databricks CLI and REST API. It also assesses the ability to build optimized and cleaned ETL pipelines. Additionally, the ability to model data into a lakehouse using knowledge of general data modeling concepts will be assessed. Finally, being able to ensure that data pipelines are secure, reliable, monitored and tested before deployment will also be included in this exam. Individuals who pass this certification exam can be expected to complete advanced data engineering tasks using Databricks and its associated tools.
+
+- **Databricks:** Certified Associate Generative AI Engineer - The Databricks Certified Generative AI Engineer Associate certification exam assesses an individual’s ability to design and implement LLM-enabled solutions using Databricks. This includes problem decomposition to break down complex requirements into manageable tasks as well as choosing appropriate models, tools and approaches from the current generative AI landscape for developing comprehensive solutions. It also assesses Databricks-specific tools such as Vector Search for semantic similarity searches, Model Serving for deploying models and solutions, MLflow for managing a solution lifecycle, and Unity Catalog for data governance. Individuals who pass this exam can be expected to build and deploy performant RAG applications and LLM chains that take full advantage of Databricks and its toolset.
+
+- **AWS:** Certified Data Engineer Associate - validates skills and knowledge in core data-related AWS services, ability to ingest and transform data, orchestrate data pipelines while applying programming concepts, design data models, manage data life cycles, and ensure data quality.
+
+- **Microsoft:** Certified Azure AI Engineer Associate - Design and implement an Azure AI solution using Azure AI services, Azure AI Search, and Azure Open AI.
+
 
 ## Skills
-
-- **Data Science and Engineering:** ETL pipeline implementation, product development, troubleshooting
+- **Data Engineering:** ETL/ELT pipeline architecture, design and implementation, product development, troubleshooting
 - **Applied Data Science:** Machine Learning, Deep Learning, Generative AI
 - **AWS:** Lambda, Redshift, Postgres, DynamoDB, S3, Glue, CloudFormation
-- **Databricks:** Spark SQL and PySpark, workflow automation, Delta Live Tables
-- **Python:** Application development, API integration, data wrangling/manipulation
-- **SQL:** Data extraction, analysis, and query optimization
+- **Databricks:** Spark SQL and PySpark, Workflow Automation, Delta Live Tables
+- **Python:** Application Development, API integration, Data Wrangling/Manipulation
+- **SQL:** Data Extraction, Data Analysis, Query Optimization
+- **Software Development** Agile, Scrum, CI/CD
 
 ## Professional Work Experience
 
