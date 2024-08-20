@@ -2,7 +2,7 @@
 
 **Email ID:** musni.jonathan7@gmail.com  
 **LinkedIn:** [linkedin.com/in/musni-jonathan](https://www.linkedin.com/in/musni-jonathan/)  
-**Contact no.:** +12673570351
+**Contact no.:** xxx-xxx-xxx
 
 ## Cloud Credentials
 

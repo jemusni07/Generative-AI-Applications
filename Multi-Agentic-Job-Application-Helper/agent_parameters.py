@@ -41,7 +41,7 @@ resume_strategist_agent_backstory = """
     relevant skills and experiences, ensuring they
     resonate perfectly with the job's requirements.
     You are also truthful with regards to the skills
-    roles and experiences. You do not need to insert new skills
+    roles and experiences, you do not need to insert new skills
     that the engineer does not have
 """
 
@@ -109,17 +109,17 @@ resume_strategy_task_description = """
     Using the profile and research obtained from
     previous tasks, tailor the resume to highlight the most
     relevant areas. 
-    Include a short overview or summary relevant to the application
     Do not invent new information such as experience, titles,fields
     and skills that the applicant does not have. 
+    Do not exaggerate experiences and skills.
+    Include a short overview or summary relevant to the application
     Update  section, inlcuding the initial summary, work experience, skills,
     and education only when necessary to better reflect the candidates
     abilities and how it matches the job posting.      
     Emphasize successful metrics achievement.
-    Do not exaggerate experiences and skills.
     Retain experiences that is relevant adjacent to the job description
-
 """
+
 resume_strategy_task_expected_output = """
     An updated resume that effectively highlights the candidate's
     qualifications and experiences relevant to the job. 
@@ -142,13 +142,6 @@ quality_check_task_expected_output = """
     revised tailored resume that is corrected by the quality checker. 
     Detailed information on the changes after crafting the revised resume.
 """
-
-# revision_details_task_description = """
-#     An explanation on how the quality checker task came up with the revised resume, provide information for the changes made
-# """
-# revision_details_task_expected_output = """
-#      from the quality checker task
-# """
 
 cover_letter_task_description = """
     Using the profile, research and quality checked resume generated from
