@@ -15,7 +15,7 @@ Pain points when applying for a job posting:
 This application aims to help an applicant be confident with the resume they are sending to each application. It has a guardrail to make sure the generated tailored resume is honest with regards to the applicants profile. It will try to align the applicant's profile to the job posting without embellishment and insertion of new skills, fields, industries or experiences just to fit the job posting. The aligned resume should help the applicant to be in good shape for rounds of interviews to follow. This will happen when the applicant is confident that he/she has an honest resume tailored for the job posting.
 
 ![image info](./img/honesty_check.png)
-*One important feature of this application os to put a guardrail against embelishment to make sure the generated resume is honest and with integirity.*
+*One important feature of this application is to put a guardrail against embelishment to make sure the generated resume is honest and with integirity.*
 
 
 This application utilize an hierarchal agentic approach using CrewAI and GPT-4 where each agent has a task and each task is dependent on prior task/s. It uses context RAG instead of vector RAG and that means it relies on LLM to analyze contexts such as the applicants profile and job posting. It is also encouraged to play with agent parameters and prompts to guide the behavior of the whole pipeline. 
