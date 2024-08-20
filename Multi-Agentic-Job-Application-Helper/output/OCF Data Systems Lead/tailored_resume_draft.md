@@ -2,7 +2,7 @@
 
 **Email:** musni.jonathan7@gmail.com  
 **LinkedIn:** [linkedin.com/in/musni-jonathan](https://www.linkedin.com/in/musni-jonathan/)  
-**Phone:** +12673570351
+**Phone:** xxx-xxx-xxxx
 
 ## Professional Summary
 Jonathan Musni is a seasoned Data Engineer and Data Scientist with extensive experience in project management, data integrity, and system optimization. He has proven expertise in managing vendor relationships and providing strategic oversight for data-driven applications, ensuring high data quality and compliance with business standards. Jonathan holds an MS in Data Science from Drexel University and is recognized for his leadership in managing technology projects.

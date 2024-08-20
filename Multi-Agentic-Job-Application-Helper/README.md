@@ -34,4 +34,4 @@ What it will generate:
 * Cover letter that takes into consideration the generated tailored resume, job posting and your cover letter additional inputs
 * Interview preparation material
 
-Eventually
+Eventually, it is on the applicant to take control of its job hunting strategy. Confidence and integrity will surely go a long way and these traits you can utlize for a healthy career.

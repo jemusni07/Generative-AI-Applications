@@ -2,7 +2,7 @@
 
 **Email:** musni.jonathan7@gmail.com  
 **LinkedIn:** [linkedin.com/in/musni-jonathan](https://www.linkedin.com/in/musni-jonathan/)  
-**Phone:** +12673570351
+**Phone:** xxx-xxx-xxxx
 
 ## Professional Summary
 Jonathan Musni is an accomplished Data Engineer and Data Scientist with a robust background in data quality enhancements, ETL pipeline optimization, and AI-driven application development. He possesses substantial expertise in cloud technologies, including AWS, Databricks, and Microsoft Azure. His career is marked by a strong commitment to innovation and efficiency in data-intensive environments. Jonathan holds an MS in Data Science from Drexel University and has been acknowledged for his professional and academic excellence.
