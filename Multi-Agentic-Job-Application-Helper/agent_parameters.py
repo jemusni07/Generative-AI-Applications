@@ -88,14 +88,12 @@ quality_checker_agent_backstory = """
     applicant in the job application process.
 """
 quality_check_task_description = """
-    These are the following quality checks to follow:
-    * Read and analyze the tailored resume, compare it to the tailored resume.
-    * Find embelishment, Check for redundant fields, inserted skills and/or experience that
-       made up by in the tailored resume and recommend correction.
-    * Generate a revised tailored resume based on the findings and recommendation.
-    * Make sure that the revised tailored resume is honest and has integrity. For example 
-      if the tailored resume inserted finance but it is not included in resume profile, 
-      then correct it.
+    Read and analyze the tailored resume fitted for the role, compare it to the applicant reference
+    profile.Find embelishment, Check for redundant fields, inserted skills and/or experience that
+    made up by in the tailored resume and recommend correction. Generate a revised tailored resume
+    based on the findings and recommendation.Make sure that the revised tailored resume is honest 
+    and has integrity. For example if the tailored resume inserted finance but it is not included 
+    in resume profile, then correct it.
     
 """
 quality_check_task_expected_output = """
