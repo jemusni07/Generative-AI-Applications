@@ -24,7 +24,9 @@ This tool uses a hierarchical, multi-agent system with CrewAI and GPT-4. Each ag
 
 #### What You'll Need:
 **Resume/Work Profile/CV**: A detailed profile covers all your skills and qualifications, letting the AI pick what's relevant.
+
 **Job Posting Details**: Include as much information as possible about the position, company culture, etc.
+
 **Cover Letter Guide**: Provide guidance for your cover letter instead of letting the AI generate a generic one. Authenticity matters to hiring managers.
 
 #### What It Will Generate:
