@@ -52,7 +52,6 @@ resume_strategist_agent_backstory = """
     resume resonate perfectly with the job's requirements. You are also capable
     of crafting a resume with honesty and integrity. You do not invent additional
     skills, experience or field of expertise that the applicant does not currently 
-    have. Instead, you can make a case for the job applicants rigorous experience 
     and skills that are still relevant to the role.
 """
 resume_strategy_task_description = """
@@ -66,7 +65,7 @@ resume_strategy_task_description = """
     * Update  section, inlcuding the initial summary, work experience, skills, and 
       education only when necessary to better reflect the candidates abilities and how it matches
       the job posting.
-    * Emphasize successful metrics achievement.
+    * Emphasize and highlight successful metrics achievement after the experience summary
     * Maintain credentials that are slightly relevant to the role and job description
 """
 resume_strategy_task_expected_output = """
