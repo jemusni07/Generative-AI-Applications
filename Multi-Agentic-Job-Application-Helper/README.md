@@ -1,37 +1,37 @@
-## Apply with confidence!
+### Apply with Confidence
 
-This project is inspired when I went through a Deeplearning.ai Course for CrewAI, here is the link - https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/
+This project is inspired by the Deeplearning.ai course on using LLM with CrewAI in a multi-agent system.
 
-Generative AI definitely has changed the landscape of job applications. Using chatgpt, you can easily prompt your way to create a tailored resume based on a job posting. It has become a nightmare to a recruiter on how to distinguish between thousands of aAIi generated resume. And whenever they pick one potential good resume, it is embellished to a point that the first phone call interview ends up being a waste of time for both the applicant and the recruiter. It is beneficial to the application process to have a resume that is maximally aligned to the job posting but without the applicant lying about his credentials.
+Generative AI has revolutionized job applications. With tools like ChatGPT, you can quickly create a resume tailored to a job posting. However, this has made it hard for recruiters to sift through thousands of AI-generated resumes. Often, resumes are so embellished that the first phone interview is a waste of time for both the applicant and recruiter. The goal is to align your resume with the job posting honestly, without exaggerating your credentials.
 
-These are some of the pain points when applying for a job posting:
+#### Here are some common issues in the job application process:
 
-1. Not all of the applicant's experiences are relevant to what the role is looking for.
-2. The applicant is not sure what experiences he/she has that align with the role
-3. Manually aligning the resume to the role may be a good practice but puts the applicant at a disadvantage with regards to time especially when it has be done on many applications
-
-The application aims to help the applicant be confident with the resume they are sending to each application.  It will try to align the applicant's profile to the job posting without embellishment and insertion of new skills, fields, industries or experiences just to fit the job posting. It has a guardrail to make sure the generated tailored resume is honest with regards to the applicant’s profile. The aligned resume should help the applicant to be in good shape for rounds of interviews to follow. This will happen when the applicant is confident that he/she has an honest resume tailored for the job posting.
+Not all of your experiences are relevant to the role.
+You might not be sure which of your experiences align with the job.
+Manually aligning your resume to each role takes time, especially when applying to multiple jobs.
+This application helps you confidently send out resumes. It aligns your profile with the job posting without adding or exaggerating skills and experiences. The guardrails ensure your resume remains honest, helping you feel prepared for the interview stages that follow.
 
 ![image info](./img/honesty_check.png)
-*One important feature of this application is a guardrail against embelishment to make sure the generated resume is honest and with integrity.*
+*Guardrail against embellishment*
 
 
-This application utilize a hierarchal agentic approach using CrewAI and GPT-4 where each agent has a task and each task is dependent on prior task/s. It uses context RAG instead of vector RAG and that means it relies on LLM to analyze contexts such as the applicants profile and job posting. It is also encouraged to play with agent parameters and prompts to guide the behavior of the whole pipeline. 
+This tool uses a hierarchical, multi-agent system with CrewAI and GPT-4. Each agent has a task, relying on previous tasks, and it uses context RAG (not vector RAG) to analyze the applicant’s profile and job posting. You can tweak agent parameters and prompts to guide the entire process.
+
 
 ![image info](./img/multi_agent_job_helper.png)
 *Multi-Agentic Job Application Helper with CrewAI and OpenAI GPT-4*
 
 
-What it needs:
-* Resume/Work Profile/CV - A rigorious profile is probably a better input to the AI application as it encompasses all of the applicant skills and qualification regardless of its relevancy to the position. The AI app should eventually be the one to pick what skills and qualifications or even make a case on why a non-relevant experience can be helpful to the role the applicant is applying for.
-* Job Posting Details – Put as much detail as possible about the position, the company culture, etc.
-* Cover letter Guide- Guide your cover letter instead of letting the LLM create a generic cover letter. Hiring Managers looks for authenticity.
+#### What You'll Need:
+**Resume/Work Profile/CV**: A detailed profile covers all your skills and qualifications, letting the AI pick what's relevant.
+**Job Posting Details**: Include as much information as possible about the position, company culture, etc.
+**Cover Letter Guide**: Provide guidance for your cover letter instead of letting the AI generate a generic one. Authenticity matters to hiring managers.
 
-What it will generate:
-* A tailored resume fit to the job posting, honest and with integrity
-* Cover letter that takes into consideration the generated tailored resume, job posting and your cover letter additional inputs
-* Interview preparation material
+#### What It Will Generate:
+A tailored, honest resume that fits the job posting.
+A cover letter that aligns with your resume, the job posting, and your additional inputs.
+Interview preparation material.
 
-Eventually, it is on the applicant to take control of its job-hunting strategy. This application is just another tool but should not replace being intentional when applying for a certain role or job posting.
-Confidence and integrity are still unmatched and these traits are essential for a healthy career.
+
+Remember, you control your job-hunting strategy. This tool is just one resource; it shouldn't replace intentionality in your applications. Confidence and integrity are still key to a healthy career.
 
