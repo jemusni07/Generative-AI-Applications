@@ -1,6 +1,6 @@
 ## Apply with confidence!
 
-This project is inspired when I went through a Deep Learning Course for CrewAI, here is the link - https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/
+This project is inspired when I went through a Deeplearning.ai Course for CrewAI, here is the link - https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/
 
 Generative AI definitely has changed the landscape of job applications. Using chatgpt, you can easily prompt your way to create a tailored resume based on a job posting. It has become a nightmare to a recruiter on how to distinguish between thousands of aAIi generated resume. And whenever they pick one potential good resume, it is embellished to a point that the first phone call interview ends up being a waste of time for both the applicant and the recruiter. It is beneficial to the application process to have a resume that is maximally aligned to the job posting but without the applicant lying about his credentials.
 
